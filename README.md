@@ -12,3 +12,22 @@
 <h4>Prerequisites</h4>
 <p>1. Python 3.x</p>
 <p>2. Turtle graphics library (usually included in Python standard library)</p>
+
+
+<h3>Installation</h3>
+<h5>1. Clone the repository:</h5>
+<p>git clone: https://github.com/NabilRaiyan/Space-Invaders-Game.git</p>
+<h5>2. Navigate to the project directory</h5>
+<h5>3. Run the game</h5>
+
+
+<h3>Screenshots</h3>
+![image](https://github.com/NabilRaiyan/Space-Invaders-Game/assets/31074461/f03d581e-5deb-4e16-9cca-8bd15908a001)
+![image](https://github.com/NabilRaiyan/Space-Invaders-Game/assets/31074461/b62db742-095e-46ce-a8e7-516d0b01fe56)
+
+
+
+<h5>Controls</h5>
+<p>Left Arrow: Move spaceship left</p>
+<p>Right Arrow: Move spaceship right</p>
+<p>S key: Shoot lasers</p>
