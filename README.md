@@ -22,7 +22,9 @@
 
 
 <h3>Screenshots</h3>
+
 ![image](https://github.com/NabilRaiyan/Space-Invaders-Game/assets/31074461/f03d581e-5deb-4e16-9cca-8bd15908a001)
+
 ![image](https://github.com/NabilRaiyan/Space-Invaders-Game/assets/31074461/b62db742-095e-46ce-a8e7-516d0b01fe56)
 
 
